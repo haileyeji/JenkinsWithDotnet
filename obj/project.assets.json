@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/mingyu/.nuget/packages/": {}
+    "/Users/Yeji/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mingyu/JenkinsWithDotnet/JenkinsWithDotnet.csproj",
+      "projectUniqueName": "/Users/Yeji/JenkinsWithDotnet/JenkinsWithDotnet.csproj",
       "projectName": "JenkinsWithDotnet",
-      "projectPath": "/home/mingyu/JenkinsWithDotnet/JenkinsWithDotnet.csproj",
-      "packagesPath": "/home/mingyu/.nuget/packages/",
-      "outputPath": "/home/mingyu/JenkinsWithDotnet/obj/",
+      "projectPath": "/Users/Yeji/JenkinsWithDotnet/JenkinsWithDotnet.csproj",
+      "packagesPath": "/Users/Yeji/.nuget/packages/",
+      "outputPath": "/Users/Yeji/JenkinsWithDotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/mingyu/.nuget/NuGet/NuGet.Config"
+        "/Users/Yeji/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }

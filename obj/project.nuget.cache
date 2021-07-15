@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWZDgqBMDEq/AVsZDcxODvLqeioZeDubXv9atvcRx/tn+XFNTjc3G6AvZdI7zehRaOBA3+62UT3hSxuNd+HTHQ==",
+  "dgSpecHash": "dJHmqR+OdOQbkxMmJUeTDtM3QcbOFttxokPvd1GtGL3e9fwUZv1h+44OCZNACWg6p0v9M1hdbfs8tuGuLDrNpA==",
   "success": true,
-  "projectFilePath": "/home/mingyu/JenkinsWithDotnet/JenkinsWithDotnet.csproj",
+  "projectFilePath": "/Users/Yeji/JenkinsWithDotnet/JenkinsWithDotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
